@@ -6,7 +6,10 @@ class CartonDocumentosController extends ControladorBase{
 		parent::__construct();
 	}
 
-//maycol 
+
+	
+	//maycol
+	
 	public function index(){
 		
 
